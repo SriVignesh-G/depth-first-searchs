@@ -121,7 +121,7 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 
 ```
-##Output:
+### Output:
 ![image](https://github.com/user-attachments/assets/a7a219f7-1f00-4e85-ab3e-160a58e6e710)
 
 
